@@ -1,0 +1,16 @@
+HOSTNAME - ads_manha2a.mysql.dbaas.com.br
+HOSTUSER - ads_manha2a
+HOSTPASSWORD -  AdS22Manha!
+DATABASENAME - ads_manha2a
+
+login - adm
+
+Login = adm@mirtilo
+Senha = 1234
+
+
+Login banco de dados 
+
+ads_manha2a.mysql.dbaas.com.br
+ads_manha2a
+AdS22Manha!
